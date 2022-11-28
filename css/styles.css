@@ -159,6 +159,10 @@ h3 {
     color: #080808;
 }
 
+h4 {
+    line-height: 45px;
+}
+
 .info-text {
     color: #777777;
     
